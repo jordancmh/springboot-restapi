@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import model.CloudVendor;
+import com.jordancmh.rest_demo.model.CloudVendor;
 
 @RestController
 @RequestMapping("/cloudvendor")
